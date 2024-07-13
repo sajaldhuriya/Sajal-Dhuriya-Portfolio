@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "15/02/2024",
+      "title": "Auto Expo Dashboard",
+      "description": "This is the Dashoard Created By Me On Crack The Case Event . It Will The Buyers To Buy The Car Of Their Dreams Effectively....",
+      "url": "https://drive.google.com/drive/folders/1abaVUbBH7XI4FrueiA1Nt_rb39qyr2yh?usp=drive_link",
+      "imgSrc": "https://www.klipfolio.com/sites/all/themes/klipfolio_theme/img/kvo-dashboards/dashboard-command-centre.png"
+    },
+    {
+      "date": "17/06/2024",
+      "title": "The Souled Store",
+      "description": "This is the Frontend On An Ecommerce Clothing Website Created By Me As an Intern On Code Soft. This Website Has Beautiful Animations ....",
+      "url": "https://the-souled-store.vercel.app/",
+      "imgSrc": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ee4cc950700333.58d7586f2d6e8.png"
+    },
+
+    {
+      "date": "22/06/2024",
+      "title": "CALCULATOR",
+      "description": "This is the Simple Calculator Created By Me As an Intern On Code Soft.I Used DOM Manupulation To Create This Project .....",
+      "url": "https://sajaldhuriya.github.io/Calculator/",
+      "imgSrc": "https://c0.wallpaperflare.com/preview/526/959/766/calculator-pencil-pen-paper.jpg"
+    },
+    {
+      "date": "1/07/2024",
+      "title": "Coin Pulse",
+      "description": "This is the simpe Website Which Gives You The Live Rate of More Than 13K+ Crypto Currencies. I used Coin Gecko Website To Create This Project......",
+      "url": "https://coin-pulse-sajal-dhuriyas-projects.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "7/07/2024",
+      "title": "PORTFOLIO",
+      "description": "This Is My Portfolio Website Which I Created As An Intern In Code Soft. This Websites Shows My Prjects Contacts To My Viewers....",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+#work {
+    width: 100%;
+    height: 100vh;
+    padding: 8rem $p;
+    background: url(../Assests/color-sharp2.png)no-repeat;
+    background-position: center;
+    background-size: cover;
+    > h2 {
+      font: 700 2.5rem $text2;
+      width: fit-content;
+      border-bottom: 1px solid $color6_1;
+      padding: 0.5rem;
+      margin: auto;
+      color: $color4;
+    }
+  
+    > section {
+      margin-top: 2rem;
+      width: 100%;
+      height: 100%;
+      background-color: $color6;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  
+      > article {
+        width: 70%;
+        height: 25vmax;
+      }
+  
+      .workItem {
+        overflow-y: auto;
+        height: 25vmax;
+        width: 95%;
+        margin: auto;
+        background: linear-gradient(89.9deg, rgb(102, 64, 123) 0%, rgb(252, 41, 119) 100%, rgb(251, 168, 214) 100.1%);
+        background-color: $color2_1;
+        display: flex;
+        padding: 2rem;
+        box-shadow: 0 0 20px 5px $color2;
+  
+        > img {
+          border-radius: 20px;
+          width: 40%;
+          object-fit: cover;
+        }
+  
+        > aside {
+          width: 60%;
+          display: flex;
+          padding-top: $p_sm;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+  
+          > p {
+            letter-spacing: 2px;
+            line-height: 180%;
+            margin: 1rem;
+          }
+          > a {
+            background-color: $color5;
+            padding: 0.7rem 2rem;
+            margin: 2rem;
+            color: $color4;
+            border-radius: 5px;
+            border: 2px solid $color4;
+            transition: all 0.5s;
+            &:hover {
+              background-color: $color4;
+              color: $color1;
+            }
+          }
+        }
+      }
+    }
+  }
